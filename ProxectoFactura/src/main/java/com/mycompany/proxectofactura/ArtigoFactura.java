@@ -5,7 +5,7 @@
 package com.mycompany.proxectofactura;
 
 /**
- *
+ * Datos de unha factura
  * @author marti
  */
 public class ArtigoFactura {
