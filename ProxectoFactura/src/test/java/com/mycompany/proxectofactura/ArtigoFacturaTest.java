@@ -37,11 +37,6 @@ public class ArtigoFacturaTest {
     }
 
     /**
-     * Test of getPrezoUnitario method, of class ArtigoFactura.
-     */
-  
-
-    /**
      * Test of obterPrezoTotal method, of class ArtigoFactura.
      */
     @Test
